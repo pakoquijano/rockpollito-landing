@@ -1,0 +1,15 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #545875;
+  height: 100%;
+}
+.rockpollito {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rockpollito .pixel img {
+  height: 100px;
+}
