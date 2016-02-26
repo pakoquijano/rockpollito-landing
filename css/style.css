@@ -1,15 +1,23 @@
+
 html,
 body {
   padding: 0;
   margin: 0;
-  background-color: #545875;
+  background-color: #00b7b9;
   height: 100%;
 }
 .rockpollito {
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
 }
 .rockpollito .pixel img {
-  height: 100px;
+  height: 200px;
+}
+
+.text{
+	font-family: Open Sans;
+	font-size: 36px;
+	color: #ffffff;
 }
